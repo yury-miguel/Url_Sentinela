@@ -48,9 +48,9 @@ Foi desenvolvido um dataset [https://archive.ics.uci.edu/dataset/967/phiusiil+ph
    - 15.709 domínios são usados mais de uma vez para diferentes URLs.
    - Temos uma minoria, menor que 1% de TLD (extensão de domínios) únicos.
    - Existem 37.921 títulos repetidos entre os sites.
-   - O domínio mais frequente é o “ipfs.io“ ocorre 1.197 vezes, dentro de suas ocorrências, 0 vezes são phishing.
-   - A extensão de domínio mais usada é “.com“ com 112.554 usos, e sendo 0 delas phishing.
-   - O título mais frequente é “0“ com 32.719 ocorrências, dessas 0 são phishing.
+   - O domínio mais frequente é o “ipfs.io“ ocorre 1.197 vezes.
+   - A extensão de domínio mais usada é “.com“ com 112.554 usos.
+   - O título mais frequente é “0“ com 32.719 ocorrências.
 
 2. **Similaridade das URLs**: Temos uma média de 78% de similaridade entre URLs que sabemos que são legítimas e URLs duvidosas.
 3. **Comprimento das URLs**: A menor URL tem 13 caracteres e estranhamente a maior tem 6097 caracteres. 75% (176.846) das URLs tem 34 caracteres ou menos.
